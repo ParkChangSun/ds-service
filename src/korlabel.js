@@ -1,0 +1,27 @@
+const korLabel = {
+  process_type: "공종",
+  process_type2: "공종2",
+  bid_percent: "낙찰률",
+  orderer: "발주자구분",
+  season: "계절",
+  day: "요일",
+  temperature: "온도",
+  humidity: "습도",
+  protection: "안정방호",
+  process: "작업프로세스",
+  place: "장소",
+  total_price: "총공사비",
+  process_price: "해당공종공사비",
+  process_percent: "공정률",
+  man_count: "작업자수",
+  safety_plan: "안전관리계획",
+  total_day: "총공사일",
+  process_day: "공종공사일",
+  personal_safety: "개인보호",
+  part: "부위",
+  quarter: "분기",
+  timezone: "시간대",
+  incident_object2: "사고객체",
+};
+
+export default korLabel;
